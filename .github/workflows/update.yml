@@ -1,0 +1,29 @@
+name: Update Project Overview
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install uv and set the python version
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Update README
+        run: uv run main.py
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update project overview"
+          git push
