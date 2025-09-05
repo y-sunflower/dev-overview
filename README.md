@@ -1,11 +1,11 @@
-# Y-Sunflower Projects Overview
+# 🌻 Yellow Sunflower Projects Overview
 
-| Project | Open Issues | Open PRs | Last Commit |
-|---------|------------|----------|-------------|
-| [pypalettes](https://github.com/y-sunflower/pypalettes) | 0 | 0 | 1w ago |
-| [pyfonts](https://github.com/y-sunflower/pyfonts) | 3 | 1 | 4d ago |
-| [morethemes](https://github.com/y-sunflower/morethemes) | 0 | 0 | 3d ago |
-| [drawarrow](https://github.com/y-sunflower/drawarrow) | 2 | 0 | 1w ago |
-| [dayplot](https://github.com/y-sunflower/dayplot) | 7 | 0 | 3w ago |
-| [plotjs](https://github.com/y-sunflower/plotjs) | 14 | 0 | 2d ago |
-| [bumplot](https://github.com/y-sunflower/bumplot) | 4 | 0 | 22h ago |
+| Project                                                 | ⭐ Stars | Release | Downloads                                                                                                                                                                                                         | Open Issues | Open PRs | Last Commit |
+| ------------------------------------------------------- | -------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ----------- |
+| [pypalettes](https://github.com/y-sunflower/pypalettes) | 355      | v0.1.6  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 0           | 0        | 1w ago      |
+| [pyfonts](https://github.com/y-sunflower/pyfonts)       | 59       | v1.1.1  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyfonts?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyfonts)       | 3           | 1        | 4d ago      |
+| [morethemes](https://github.com/y-sunflower/morethemes) | 58       | v0.5.1  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 0           | 0        | 3d ago      |
+| [drawarrow](https://github.com/y-sunflower/drawarrow)   | 36       | –       | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/drawarrow?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/drawarrow)   | 2           | 0        | 1w ago      |
+| [dayplot](https://github.com/y-sunflower/dayplot)       | 84       | v0.3.3  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/dayplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/dayplot)       | 7           | 0        | 3w ago      |
+| [plotjs](https://github.com/y-sunflower/plotjs)         | 22       | v0.0.4  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/plotjs?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/plotjs)         | 14          | 0        | 2d ago      |
+| [bumplot](https://github.com/y-sunflower/bumplot)       | 1        | v0.1.1  | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot)       | 4           | 0        | 22h ago     |
