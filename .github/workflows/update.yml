@@ -19,11 +19,13 @@ jobs:
 
       - name: Update README
         run: uv run main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add README.md
-          git commit -m "Update project overview"
+          git commit -m "Update project overview" || echo "No changes to commit"
           git push
