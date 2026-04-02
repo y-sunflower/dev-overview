@@ -2,7 +2,6 @@ import requests
 import os
 from datetime import datetime, timezone
 
-# ----- CONFIG -----
 GITHUB_ORG = "y-sunflower"
 REPOS = [
     "pypalettes",
@@ -11,14 +10,21 @@ REPOS = [
     "drawarrow",
     "dayplot",
     "plotjs",
+    "realcolor",
+    "gifing",
+    "bumplot",
     "tynding",
     "r2typ",
-    "bumplot",
 ]
+
+# repos without PyPI
+NO_PYPI = {"tynding", "r2typ"}
+
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 README_FILE = "README.md"
-# ------------------
+
+RECENT_DAYS = 7
 
 
 def human_timedelta(dt):
@@ -47,51 +53,43 @@ def human_timedelta(dt):
 
 
 def get_repo_data(repo):
+    print(f"fetching github data for {repo}")
     repo_url = f"https://api.github.com/repos/{GITHUB_ORG}/{repo}"
-
     r = requests.get(repo_url, headers=HEADERS).json()
 
     last_commit_date = r["pushed_at"]
     stars = r.get("stargazers_count", 0)
 
-    # Latest release
     release_r = requests.get(f"{repo_url}/releases/latest", headers=HEADERS)
     if release_r.status_code == 200 and release_r.json():
         release = release_r.json().get("tag_name", "–")
     else:
         release = "–"
 
-    # Issues
-    issues_r = requests.get(f"{repo_url}/issues?state=open", headers=HEADERS).json()
+    issues_r = requests.get(
+        f"{repo_url}/issues?state=open&per_page=100", headers=HEADERS
+    ).json()
     open_issues = len([i for i in issues_r if "pull_request" not in i])
 
-    # PRs
     prs_r = requests.get(
-        f"{repo_url}/pulls?state=open&per_page=1", headers=HEADERS
+        f"{repo_url}/pulls?state=open&per_page=100", headers=HEADERS
     ).json()
     open_prs = len(prs_r)
 
-    # Last commit
     last_commit = datetime.strptime(last_commit_date, "%Y-%m-%dT%H:%M:%SZ").replace(
         tzinfo=timezone.utc
     )
     last_commit_str = human_timedelta(last_commit)
 
-    # PyPI Downloads badge
-    downloads_badge = (
-        f"[![PyPI Downloads]"
-        f"(https://static.pepy.tech/personalized-badge/{repo}?period=total&units=INTERNATIONAL_SYSTEM"
-        f"&left_color=BLACK&right_color=GREEN&left_text=downloads)]"
-        f"(https://pepy.tech/projects/{repo})"
-    )
+    if repo in NO_PYPI:
+        downloads_badge = "–"
+    else:
+        downloads_badge = (
+            f"[![PyPI Downloads](https://static.pepy.tech/personalized-badge/{repo}"
+            f"?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)]"
+            f"(https://pepy.tech/projects/{repo})"
+        )
 
-    print(repo)
-    print(f"issues: {open_issues}")
-    print(f"prs: {open_prs}")
-    print(f"last_commit: {last_commit_str}")
-    print(f"stars: {stars}")
-    print(f"release: {release}")
-    print("\n")
     return {
         "name": repo,
         "issues": open_issues,
@@ -104,8 +102,11 @@ def get_repo_data(repo):
 
 
 def generate_readme(data):
+    total_stars = sum(r["stars"] for r in data)
+
     lines = [
-        "# 🌻 Yellow Sunflower Projects Overview\n",
+        "# 🌻 Yellow Sunflower Projects Overview\n\n",
+        f"- ⭐ Total stars: {total_stars}\n\n",
         "| Project | ⭐ Stars | Release | Downloads | Open Issues | Open PRs | Last Commit |",
         "|---------|---------|---------|-----------|-------------|----------|-------------|",
     ]
