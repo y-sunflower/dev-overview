@@ -11,6 +11,8 @@ REPOS = [
     "drawarrow",
     "dayplot",
     "plotjs",
+    "tynding",
+    "r2typ",
     "bumplot",
 ]
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
