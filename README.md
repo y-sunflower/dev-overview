@@ -1,7 +1,7 @@
 # 🌻 Yellow Sunflower Projects Overview
 
 
-- ⭐ Total stars: 1013
+- ⭐ Total stars: 1014
 
 
 | Project | ⭐ Stars | Release | Downloads | Open Issues | Open PRs | Last Commit |
@@ -15,5 +15,5 @@
 | [realcolor](https://github.com/y-sunflower/realcolor) | 25 | v0.2.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/realcolor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/realcolor) | 1 | 0 | 3mo ago |
 | [gifing](https://github.com/y-sunflower/gifing) | 13 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gifing?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gifing) | 0 | 0 | 12mo ago |
 | [bumplot](https://github.com/y-sunflower/bumplot) | 73 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot) | 5 | 1 | 3mo ago |
-| [tynding](https://github.com/y-sunflower/tynding) | 20 | v0.5.0 | – | 5 | 0 | 1w ago |
-| [r2typ](https://github.com/y-sunflower/r2typ) | 20 | v0.3.3 | – | 2 | 0 | 1mo ago |
+| [tynding](https://github.com/y-sunflower/tynding) | 21 | v0.5.0 | – | 5 | 0 | 1w ago |
+| [r2typ](https://github.com/y-sunflower/r2typ) | 20 | v0.3.3 | – | 2 | 0 | 2mo ago |
