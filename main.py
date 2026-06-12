@@ -9,7 +9,7 @@ REPOS = [
     "morethemes",
     "drawarrow",
     "dayplot",
-    "plotjs",
+    "ninejs",
     "realcolor",
     "gifing",
     "bumplot",
