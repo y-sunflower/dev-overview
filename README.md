@@ -14,6 +14,6 @@
 | [ninejs](https://github.com/y-sunflower/ninejs) | 182 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ninejs?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ninejs) | 6 | 1 | 2w ago |
 | [realcolor](https://github.com/y-sunflower/realcolor) | 25 | v0.2.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/realcolor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/realcolor) | 1 | 0 | 5mo ago |
 | [gifing](https://github.com/y-sunflower/gifing) | 13 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gifing?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gifing) | 0 | 0 | 14mo ago |
-| [bumplot](https://github.com/y-sunflower/bumplot) | 75 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot) | 5 | 1 | 5mo ago |
-| [tynding](https://github.com/y-sunflower/tynding) | 22 | v0.5.0 | – | 5 | 0 | 2w ago |
+| [bumplot](https://github.com/y-sunflower/bumplot) | 75 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot) | 5 | 1 | 6mo ago |
+| [tynding](https://github.com/y-sunflower/tynding) | 22 | v0.5.0 | – | 5 | 0 | 3w ago |
 | [r2typ](https://github.com/y-sunflower/r2typ) | 21 | v0.3.3 | – | 2 | 0 | 4mo ago |
