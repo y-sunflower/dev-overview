@@ -1,15 +1,15 @@
 # 🌻 Yellow Sunflower Projects Overview
 
 
-- ⭐ Total stars: 1216
+- ⭐ Total stars: 1217
 
 
 | Project | ⭐ Stars | Release | Downloads | Open Issues | Open PRs | Last Commit |
 |---------|---------|---------|-----------|-------------|----------|-------------|
 | [pypalettes](https://github.com/y-sunflower/pypalettes) | 480 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 3 | 0 | 6mo ago |
 | [pyfonts](https://github.com/y-sunflower/pyfonts) | 95 | v1.4.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyfonts?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyfonts) | 6 | 0 | 1mo ago |
-| [morethemes](https://github.com/y-sunflower/morethemes) | 86 | v0.7.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 4 | 0 | 1mo ago |
-| [drawarrow](https://github.com/y-sunflower/drawarrow) | 58 | – | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/drawarrow?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/drawarrow) | 2 | 0 | 11mo ago |
+| [morethemes](https://github.com/y-sunflower/morethemes) | 87 | v0.7.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 4 | 0 | 1mo ago |
+| [drawarrow](https://github.com/y-sunflower/drawarrow) | 58 | – | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/drawarrow?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/drawarrow) | 2 | 0 | 12mo ago |
 | [dayplot](https://github.com/y-sunflower/dayplot) | 157 | v0.6.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/dayplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/dayplot) | 1 | 1 | 1mo ago |
 | [ninejs](https://github.com/y-sunflower/ninejs) | 184 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ninejs?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ninejs) | 6 | 1 | 1mo ago |
 | [realcolor](https://github.com/y-sunflower/realcolor) | 25 | v0.2.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/realcolor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/realcolor) | 1 | 0 | 6mo ago |
