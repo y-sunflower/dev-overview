@@ -1,19 +1,19 @@
 # 🌻 Yellow Sunflower Projects Overview
 
 
-- ⭐ Total stars: 1220
+- ⭐ Total stars: 1222
 
 
 | Project | ⭐ Stars | Release | Downloads | Open Issues | Open PRs | Last Commit |
 |---------|---------|---------|-----------|-------------|----------|-------------|
-| [pypalettes](https://github.com/y-sunflower/pypalettes) | 482 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 3 | 0 | 7mo ago |
+| [pypalettes](https://github.com/y-sunflower/pypalettes) | 483 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 3 | 0 | 7mo ago |
 | [pyfonts](https://github.com/y-sunflower/pyfonts) | 95 | v1.4.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyfonts?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyfonts) | 6 | 0 | 2mo ago |
-| [morethemes](https://github.com/y-sunflower/morethemes) | 87 | v0.7.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 4 | 1 | 7h ago |
+| [morethemes](https://github.com/y-sunflower/morethemes) | 87 | v0.7.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 5 | 0 | 11h ago |
 | [drawarrow](https://github.com/y-sunflower/drawarrow) | 58 | – | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/drawarrow?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/drawarrow) | 2 | 0 | 12mo ago |
 | [dayplot](https://github.com/y-sunflower/dayplot) | 157 | v0.6.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/dayplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/dayplot) | 1 | 1 | 2mo ago |
 | [ninejs](https://github.com/y-sunflower/ninejs) | 185 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/ninejs?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ninejs) | 6 | 1 | 1mo ago |
 | [realcolor](https://github.com/y-sunflower/realcolor) | 25 | v0.2.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/realcolor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/realcolor) | 1 | 0 | 6mo ago |
 | [gifing](https://github.com/y-sunflower/gifing) | 13 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gifing?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gifing) | 0 | 0 | 15mo ago |
 | [bumplot](https://github.com/y-sunflower/bumplot) | 75 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot) | 5 | 1 | 7mo ago |
-| [tynding](https://github.com/y-sunflower/tynding) | 22 | v0.5.0 | – | 5 | 0 | 1mo ago |
+| [tynding](https://github.com/y-sunflower/tynding) | 23 | v0.5.0 | – | 5 | 0 | 1mo ago |
 | [r2typ](https://github.com/y-sunflower/r2typ) | 21 | v0.3.3 | – | 2 | 0 | 5mo ago |
