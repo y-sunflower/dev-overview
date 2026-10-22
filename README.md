@@ -1,12 +1,12 @@
 # 🌻 Yellow Sunflower Projects Overview
 
 
-- ⭐ Total stars: 1233
+- ⭐ Total stars: 1234
 
 
 | Project | ⭐ Stars | Release | Downloads | Open Issues | Open PRs | Last Commit |
 |---------|---------|---------|-----------|-------------|----------|-------------|
-| [pypalettes](https://github.com/y-sunflower/pypalettes) | 487 | v0.2.2 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 5 | 0 | 1w ago |
+| [pypalettes](https://github.com/y-sunflower/pypalettes) | 488 | v0.2.2 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pypalettes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pypalettes) | 5 | 0 | 1w ago |
 | [pyfonts](https://github.com/y-sunflower/pyfonts) | 96 | v1.4.2 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyfonts?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyfonts) | 6 | 0 | 1w ago |
 | [morethemes](https://github.com/y-sunflower/morethemes) | 88 | v0.7.0 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/morethemes?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/morethemes) | 5 | 0 | 1mo ago |
 | [drawarrow](https://github.com/y-sunflower/drawarrow) | 58 | – | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/drawarrow?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/drawarrow) | 2 | 0 | 14mo ago |
