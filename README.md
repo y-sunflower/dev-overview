@@ -16,4 +16,4 @@
 | [gifing](https://github.com/y-sunflower/gifing) | 13 | v0.1.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gifing?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gifing) | 0 | 0 | 17mo ago |
 | [bumplot](https://github.com/y-sunflower/bumplot) | 75 | v0.2.1 | [![PyPI Downloads](https://static.pepy.tech/personalized-badge/bumplot?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/bumplot) | 5 | 1 | 8mo ago |
 | [tynding](https://github.com/y-sunflower/tynding) | 23 | v0.5.0 | – | 5 | 0 | 3mo ago |
-| [r2typ](https://github.com/y-sunflower/r2typ) | 22 | v0.3.3 | – | 2 | 0 | 6mo ago |
+| [r2typ](https://github.com/y-sunflower/r2typ) | 22 | v0.3.3 | – | 2 | 0 | 7mo ago |
